@@ -7,9 +7,9 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo-png-2.png",
-  "name": "lojamabi",
-  "short_name": "lojamabi",
+  "logo": "/img/uploads/logo-png.png",
+  "name": "Lojas Mabi",
+  "short_name": "Lojas Mabi",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/favicom.jpg",
   "store_id": 1228,
-  "description": "lojamabi",
+  "description": "xxx",
   "large_icon": "/img/uploads/favicom.jpg"
 }
