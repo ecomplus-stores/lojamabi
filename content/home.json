@@ -17,9 +17,18 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
-      "page": "",
+      "page": 1,
       "collection_id": "603f9d356d50911b6052c18e:categories:Lançamento:/lancamento",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "603f9d356d50911b6052c18e:categories:Lançamento:/lancamento",
+      "sort": "news",
+      "headless": false
     }
   ]
 }
