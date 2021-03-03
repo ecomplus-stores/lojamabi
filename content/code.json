@@ -1,5 +1,5 @@
 {
-  "css": ".__pages_site-fechado .header,\n.__pages_site-fechado .footer {\n    display: none !important;\n}",
-  "html_head": "<script>\nif (location.pathname !== '/pages/site-fechado') {\n  location.href = 'https://lojamabi.netlify.app/pages/site-fechado';\n}\n</script>\n",
+  "css": ".product__short-stock {\ndisplay: none !important;\n}",
+  "html_head": "\n",
   "html_body": ""
 }
