@@ -1,5 +1,5 @@
 {
-  "css": ".product__short-stock {\ndisplay: none !important;\n}",
+  "css": ".product__short-stock {\ndisplay: none !important;\n}\n.__pages_site-fechado .header,\n.__pages_site-fechado .footer {\n    display: none !important;\n}\n\n",
   "html_head": "\n",
   "html_body": ""
 }
