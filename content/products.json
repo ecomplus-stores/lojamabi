@@ -18,15 +18,15 @@
     },
     {
       "type": "product-description",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "product-specifications",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "product-block",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
