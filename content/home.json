@@ -14,21 +14,12 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 24,
+      "page": 1,
       "collection_id": "603f9d356d50911b6052c18e:categories:Lançamento:/lancamento",
-      "limit": 23,
-      "page": 5,
       "sort": "news"
-    },
-    {
-      "type": "page-title",
-      "title": "Loja Online Mabi",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
