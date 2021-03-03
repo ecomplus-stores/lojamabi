@@ -19,8 +19,8 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
+      "shuffle": false,
+      "collection_id": "603f9d356d50911b6052c18e:categories:Lançamento:/lancamento",
       "limit": 23,
       "page": 4,
       "sort": "news"
