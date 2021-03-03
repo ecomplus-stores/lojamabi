@@ -1,5 +1,5 @@
 {
   "css": ".__pages_nome-da-pagina .header,\n.__pages_nome-da-pagina .footer {\n    display: none !important;\n}",
-  "html_head": "<script>\nif (location.pathname !== '/pages/-1') {\n  location.href = '';\n}\n</script>\n",
+  "html_head": "<script>\nif (location.pathname !== '/pages/-1') {\n  location.href = 'https://lojamabi.netlify.app/pages/-1';\n}\n</script>\n",
   "html_body": ""
 }
