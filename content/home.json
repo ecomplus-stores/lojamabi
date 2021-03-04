@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 6000,
       "slides": [
         {
           "start": "2021-03-01T20:05:25.100Z",
@@ -13,7 +13,7 @@
         },
         {
           "start": "2021-03-04T00:48:19.198Z",
-          "end": "2021-03-04T00:48:19.216Z",
+          "end": "2021-11-21T00:48:19.216Z",
           "img": "/img/uploads/capa-frete.jpg"
         }
       ]
