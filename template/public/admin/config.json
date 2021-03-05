@@ -4,5 +4,25 @@
     "branch": "master",
     "identity_url": "https://gotrue.ecomplus.biz/1228/.netlify/identity",
     "gateway_url": "https://gitgateway.ecomplus.biz/1228/.netlify/git"
-  }
+  },
+  "collections": [
+    {
+      "label" : "Mabi",
+      "name": "mabi",
+      "files": [
+        {
+          "name": "mabi_config",
+          "label": "Lista da Home",
+          "file": "content/mabi_config.json",
+          "fields": [
+            {
+              "label": "Ativar slider na home?",
+              "name": "home_slider",
+              "widget": "select", "options": ["Sim", "Não"]
+            }
+          ]          
+        }
+      ]
+    }
+  ]
 }
