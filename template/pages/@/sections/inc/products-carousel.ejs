@@ -1,4 +1,7 @@
-<% if (Array.isArray(opt.items) && opt.items.length) {
+<% 
+const apx = _.cms('mabi_config') || {}
+
+if (Array.isArray(opt.items) && opt.items.length) {
   const title = opt.title ||
     (opt.collection && opt.collection.name) ||
     _.dictionary('popularProducts')
@@ -44,7 +47,9 @@
       </h4>
     <% } %>
 
-    <% if (1 == 1 ){%>
+    <% 
+    
+    if (apx.home_slider == "Não"){%>
       <div class="row px-4">
       <% for (let i = 0; i < opt.items.length; i++) { %>
         <div class="col-6 col-md-4 col-lg-3 my-4">
