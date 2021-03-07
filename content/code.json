@@ -1,5 +1,5 @@
 {
   "css": ".product__short-stock {\ndisplay: none !important;\n}\n.__pages_site-fechado .header,\n.__pages_site-fechado .footer {\n    display: none !important;\n}\n\n.product-card__rating + .badge-dark, .product__rating + .product__out-of-stock  {\n  font-size: 0px;\n}\n.product-card__rating + .badge-dark:before {\n  color: #fff;\n  background-color: #343a40;\n  content: 'Esgotado';\n  font-size: 1rem !important;\n  display: inline-block;\n  padding: .25em .4em;\n  font-weight: 700;\n  line-height: 1;\n  text-align: center;\n  white-space: nowrap;\n  vertical-align: baseline;\n  border-radius: .25rem;\n}\n.product__rating + .product__out-of-stock:before {\n  content: 'Esgotado';\n  font-weight: var(--font-bold);\n  font-size: var(--font-size-lg);\n  color: var(--warning);\n}",
-  "html_head": "\n<script>\nif (location.pathname !== '/pages/site-fechado') {\n  location.href = 'https://www.lojasmabi.com.br/pages/site-fechado';\n}a\n</script>\n\n",
+  "html_head": "",
   "html_body": ""
 }
