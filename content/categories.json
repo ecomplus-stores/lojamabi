@@ -1,17 +1,6 @@
 {
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-03-03T20:14:01.855Z",
-          "end": "2021-03-03T20:14:01.872Z",
-          "img": "/img/uploads/capa-sddite-5.jpg"
-        }
-      ]
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
