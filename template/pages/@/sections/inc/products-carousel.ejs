@@ -51,7 +51,9 @@ if (Array.isArray(opt.items) && opt.items.length) {
     
     if (apx.home_slider == "Não"){%>
       <style>
-        .product-card__buy{display:none!important}
+        @media(max-width:990px){
+          .product-card__buy{display:none!important}
+        }        
       </style>
       <div class="row px-4">
       <% for (let i = 0; i < opt.items.length; i++) { %>
