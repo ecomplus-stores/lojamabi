@@ -19,6 +19,10 @@
     {
       "type": "product-description",
       "enabled": true
+    },
+    {
+      "type": "related-products",
+      "title": "Aproveite Tanbém"
     }
   ]
 }
