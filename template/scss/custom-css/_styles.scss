@@ -1,1 +1,6 @@
 // Add your custom CSS here.
+@media(max-width:990px){
+    .product-card__prices > .prices__value + span{display:none}
+    .product-card{border-bottom: 1px solid #f91085; border-radius:0;}
+    .product-card__name{--max-lines:2}
+}
