@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.15e4268de97def94b9f00fc9047c52a3.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.943e45208f6da6d0430940684c5f7fb5.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.7b0fd14e39fc3675d6046b05847215a6.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.da6559d88a6259b387151acae054df57.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.81cd0fc06fd4832d6ad6cee1337a75ae.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Lojas Mabi",
+  "short_name": "Lojas Mabi",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "@lojasmabi",
+  "background_color": "#ffffff",
+  "theme_color": "#f91085"
+}
